@@ -5,7 +5,7 @@ Hello, I'm Equbal Fahmi, an enthusiastic developer with a passion for web develo
 
 ## Project: PHP CRUD Application
 
-![Project Screenshot](link_to_project_screenshot.png)
+https://github.com/FahmiEqubal/PHP_CRUD
 
 ### Overview
 
@@ -30,8 +30,7 @@ I've designed a CRUD application using PHP, which empowers users to manage data 
 
 You can access the source code for this project in the `master` branch of its GitHub repository:
 
-[Project Repository (master branch)](link_to_github_repository/tree/master)
-
+https://github.com/FahmiEqubal/PHP_CRUD
 Feel free to explore the code, contribute, or report any issues you may encounter.
 
 ### Contact Me
